@@ -1,1 +1,1 @@
-# Legendre-s-polynomials
+# Legendre's-polynomials
